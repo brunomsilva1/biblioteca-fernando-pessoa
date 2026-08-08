@@ -1,18 +1,8 @@
 import json
 from random import choice
 
-
-# ======================================================
-# CARREGAR AS CITAÇÕES A PARTIR DO FICHEIRO JSON
-# ======================================================
-
 with open("citacoes.json", "r", encoding="utf-8") as ficheiro:
     citacoes = json.load(ficheiro)
-
-
-# ======================================================
-# FUNÇÕES
-# ======================================================
 
 def mostrar_menu():    
     print("=" * 35)
@@ -86,11 +76,6 @@ def navegar_favoritos(favoritos):
             break
         else:
             print("Escolha inválida")
-
-
-# ======================================================
-# PROGRAMA PRINCIPAL
-# ======================================================
 
 while True:
 
