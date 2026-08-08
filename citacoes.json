@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "texto": "Tenho em mim todos os sonhos do mundo.",
+        "obra": "Tabacaria",
+        "heteronimo": "Álvaro de Campos"    
+    },
+    {
+        "id": 2,
+        "texto": "Para viajar basta existir.",
+        "obra": "Livro do Desassossego",
+        "heteronimo": "Bernardo Soares"
+    },
+    {
+        "id": 3,
+        "texto": "Ninguém conhece quem sou.",
+        "obra": "A Miséria do Meu Ser",
+        "heteronimo": "Fernando Pessoa"
+    },
+    {
+        "id": 4,
+        "texto": "Os meus desejos são cansaços.",
+        "obra": "A Tua Carne Calma",
+        "heteronimo": "Fernando Pessoa"
+    },
+    {
+        "id": 5,
+        "texto": "sentir é como o céu,\nVê-se mas não há nele que ver.",
+        "obra": "Ah, Só Eu Sei",
+        "heteronimo": "Fernando Pessoa"
+    }
+]
+
